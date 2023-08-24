@@ -55,6 +55,6 @@ Feeds used to control devices:
 All the circuits mentioned above have been successfully simulated and implemented. **Adafruit IO** is used to implement IOT connection. Temperature sensor can be also used to control Fan or Cooler. This system can also be upgraded for AC power supply and to control real life devices using appropriate relay modules or electronic elements.
 
 ## References
-[hackster.io](https://www.hackster.io/raghavdaboss/arduino-controlled-servo-door-lock-1c2239)
-[circuitdigest](https://circuitdigest.com/microcontroller-projects/water-level-indicator-project-using-arduino)
+[hackster.io](https://www.hackster.io/raghavdaboss/arduino-controlled-servo-door-lock-1c2239)<br>
+[circuitdigest](https://circuitdigest.com/microcontroller-projects/water-level-indicator-project-using-arduino)<br>
 [Adafruit IO](https://learn.adafruit.com/category/adafruit-io)
