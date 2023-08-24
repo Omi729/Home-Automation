@@ -25,7 +25,7 @@ In smart lock, we lock and unlock door using Adafruit IO on smartphone. Microcon
 
 Following is the circuit implemented for smart lock
 
-![image 1]()
+![Smart Lock](Image/smartlockD09.png)
 
 ### Light control system
 Once the door is unlocked the light control system is activated. The LEDs turn on based on PIR motion sensor. We can also switch LEDs connected to ESP32 on and off and also control brightness using a smartphone manually. 
@@ -35,21 +35,21 @@ The water management system uses an ultrasonic sensor HCSR-04 to track water lev
 
 Following is the circuit of water system
 
-![motor](/virtual-expo/assets/img/DIODE/motor.png)
+![motor](Image/motorD09.png)
 
 ### Fire alarm
 A DHT11 sensor is used to monitor the temperature, based on which it also alarms the user if temperature levels are high in house. Humidity levels are also monitored and displayed.
 
 Following is the circuit of fire alarm:
 
-![temp](/virtual-expo/assets/img/DIODE/temp.png)
+![temp](Image/tempD09.png)
 
 
 ### IOT 
 All circuits are interfaced with **Adafruit io** through which user can operate and monitor the entire system. 
 Feeds used to control devices:
 
-![feeds](/virtual-expo/assets/img/DIODE/feeds.png)
+![feeds](feedsD09.png)
  
 ## Conclusion
 All the circuits mentioned above have been successfully simulated and implemented. **Adafruit IO** is used to implement IOT connection. Temperature sensor can be also used to control Fan or Cooler. This system can also be upgraded for AC power supply and to control real life devices using appropriate relay modules or electronic elements.
