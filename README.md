@@ -49,7 +49,7 @@ Following is the circuit of fire alarm:
 All circuits are interfaced with **Adafruit io** through which user can operate and monitor the entire system. 
 Feeds used to control devices:
 
-![feeds](feedsD09.png)
+![feeds](Image/feedsD09.png)
  
 ## Conclusion
 All the circuits mentioned above have been successfully simulated and implemented. **Adafruit IO** is used to implement IOT connection. Temperature sensor can be also used to control Fan or Cooler. This system can also be upgraded for AC power supply and to control real life devices using appropriate relay modules or electronic elements.
